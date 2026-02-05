@@ -2,24 +2,43 @@
 
 Welcome to this tutorial series on **parallel programming and multiprocessing in Python**.
 
-Please **explore the tutorial scripts first** and then complete the exercises accordingly.
+Please **start with `tutorial.md`**, explore it carefully, and then move to the tutorial scripts and exercises.
 
 ---
 
 ## How to use this repository
 
-1. Go through each tutorial file in order:
-   - `tutorial1.py`
-   - `tutorial2.py`
-   - `tutorial3.py`
-   - `tutorial4.py`
-   - `tutorial5.py`
+### 1️⃣ Start here
+Begin with:
 
-2. Run each script and observe:
-   - The difference between **serial execution**
-   - The difference between **parallel execution**
-   - Execution time comparisons
-   - How multiprocessing and process pools work
+- `tutorial.md`
+
+This file provides:
+- Step-by-step guidance  
+- Explanations of key concepts  
+- Sample code with comments  
+- Instructions on how to approach the exercises  
+
+Read it fully before running any code.
+
+---
+
+### 2️⃣ Then explore the tutorial scripts
+
+After reading `tutorial.md`, go through each tutorial file in order:
+
+- `tutorial1.py`
+- `tutorial2.py`
+- `tutorial3.py`
+- `tutorial4.py`
+- `tutorial5.py`
+
+Run each script and observe:
+
+- The difference between **serial execution**
+- The difference between **parallel execution**
+- Execution time comparisons
+- How multiprocessing and process pools work
 
 These tutorials demonstrate how Python can run tasks:
 - sequentially (one after another)
@@ -31,7 +50,7 @@ Understanding these examples will help you complete the exercises.
 
 ## Exercises
 
-After reviewing the tutorials, complete the following exercises:
+After reviewing `tutorial.md` and the tutorial scripts, complete the following exercises:
 
 - `exercise1-2.md`
 - `exercise2.md`
@@ -50,14 +69,15 @@ The exercises are designed to help you apply the concepts from the tutorials, in
 
 ## Expected workflow
 
-1. Read the tutorial  
-2. Run the code  
-3. Understand what it does  
-4. Modify the code if needed  
-5. Work on the exercises  
-6. Test your solutions  
+1. Start with `tutorial.md`  
+2. Read and understand the examples  
+3. Run the tutorial scripts  
+4. Observe the outputs and timings  
+5. Modify the code if needed  
+6. Work on the exercises  
+7. Test your solutions  
 
-Do **not** jump directly to the exercises without exploring the tutorials first.
+Do **not** jump directly to the exercises without exploring `tutorial.md` and the tutorials first.
 
 ---
 
@@ -81,8 +101,3 @@ By completing these tutorials and exercises, you should be able to:
 - Use ProcessPoolExecutor  
 - Measure performance  
 - Apply parallel programming to real tasks  
-
----
-
-**Instruction:**  
-Explore the tutorials carefully and then work on the exercises accordingly.
